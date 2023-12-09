@@ -86,8 +86,6 @@ header {
         height: 125px;
         margin: 20px;
         padding: 20px;
-        float: left;
-        overflow: hidden;
         background-color: #6c9b9b;
         border: 1px solid black;
         position: relative;
